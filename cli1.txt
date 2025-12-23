@@ -1,1 +1,2 @@
 This is file 1 created from CLI
+Adding a new line to cli1.txt
